@@ -40,3 +40,5 @@ Define the Lambda function to be triggered:
 Referencing from the example notebook [here](https://github.com/aws/amazon-sagemaker-examples/blob/master/sagemaker-pipelines/tabular/abalone_build_train_deploy/sagemaker-pipelines-preprocess-train-evaluate-batch-transform.ipynb), further added a section on how to leverage AWS CLI inside the notebook to schedule the SageMaker Pipeline intuitively:
 
 ![awscli](images/cli_sample.png)
+
+Visit the full revised notebook example [here](https://github.com/samsonlee0907/sagemaker-tasks-orchestrations/blob/main/sagemaker_scheduled_pipeline_sample.ipynb)
